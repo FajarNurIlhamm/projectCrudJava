@@ -1,5 +1,5 @@
 **#cara menambahkan library mysql-connector-j-8.3.0.jar**
-
+sebelum menyambungkan kode anda ke sql, anda membutuhkan satu library yang sudah saya sediakan
 
 ![image](https://github.com/user-attachments/assets/83d91c90-78eb-4cef-af72-ad1db94b165d)
  setelah itu pilih file nya pastikan belakangnya .jar
